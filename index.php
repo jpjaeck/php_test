@@ -49,7 +49,7 @@
     </p>    
 
     <p> >> 
-       <a href="./test_T2/tp2.php"> TP2 </a>
+       <a href="./test_TP2/ListeBillets.php"> TP2 </a>
     </p>    
     
                              
